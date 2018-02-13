@@ -19,5 +19,5 @@
     </bean>
     <bean class="com.company.workshop.web.App"
           name="cuba_App"
-          scope="prototype"/>
+          scope="vaadin"/>
 </beans>
